@@ -1,0 +1,14 @@
+C:\Users\ACER\Downloads\lab w08-delegate\bin\Debug\net10.0\DeviceManagement.exe
+C:\Users\ACER\Downloads\lab w08-delegate\bin\Debug\net10.0\DeviceManagement.deps.json
+C:\Users\ACER\Downloads\lab w08-delegate\bin\Debug\net10.0\DeviceManagement.runtimeconfig.json
+C:\Users\ACER\Downloads\lab w08-delegate\bin\Debug\net10.0\DeviceManagement.dll
+C:\Users\ACER\Downloads\lab w08-delegate\bin\Debug\net10.0\DeviceManagement.pdb
+C:\Users\ACER\Downloads\lab w08-delegate\obj\Debug\net10.0\DeviceManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\lab w08-delegate\obj\Debug\net10.0\DeviceManagement.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\lab w08-delegate\obj\Debug\net10.0\DeviceManagement.AssemblyInfo.cs
+C:\Users\ACER\Downloads\lab w08-delegate\obj\Debug\net10.0\DeviceManagement.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\lab w08-delegate\obj\Debug\net10.0\DeviceManagement.dll
+C:\Users\ACER\Downloads\lab w08-delegate\obj\Debug\net10.0\refint\DeviceManagement.dll
+C:\Users\ACER\Downloads\lab w08-delegate\obj\Debug\net10.0\DeviceManagement.pdb
+C:\Users\ACER\Downloads\lab w08-delegate\obj\Debug\net10.0\DeviceManagement.genruntimeconfig.cache
+C:\Users\ACER\Downloads\lab w08-delegate\obj\Debug\net10.0\ref\DeviceManagement.dll
